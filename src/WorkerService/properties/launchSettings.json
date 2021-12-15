@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "OTEL-Test": {
+    "WorkerService": {
       "commandName": "Project",
       "environmentVariables": {
         "OTEL_SERVICE_NAME": "TestApp"
