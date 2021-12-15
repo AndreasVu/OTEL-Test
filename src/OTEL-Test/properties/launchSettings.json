@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "OTEL-Test": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OTEL_SERVICE_NAME": "TestApp"
+      }
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
